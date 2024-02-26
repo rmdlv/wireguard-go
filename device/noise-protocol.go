@@ -53,10 +53,10 @@ const (
 )
 
 const (
-	MessageInitiationType  = 1
-	MessageResponseType    = 2
-	MessageCookieReplyType = 3
-	MessageTransportType   = 4
+	MessageInitiationType  = 5
+	MessageResponseType    = 6
+	MessageCookieReplyType = 7
+	MessageTransportType   = 8
 )
 
 const (
